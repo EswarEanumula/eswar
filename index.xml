@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eswar&#39;s Portfolio on Eswar Sai Yashwanth Eanumula</title>
+    <link>https://eswareanumula.github.io/eswar/</link>
+    <description>Recent content in Eswar&#39;s Portfolio on Eswar Sai Yashwanth Eanumula</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://eswareanumula.github.io/eswar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Titanic-MachineLearning-From-Disaster-KaggleComp</title>
+      <link>https://eswareanumula.github.io/eswar/post/project-3/</link>
+      <pubDate>Fri, 09 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eswareanumula.github.io/eswar/post/project-3/</guid>
+      <description>Titanic-MachineLearning-From-Disaster-KaggleComp using skLearn
+Submission URL: https://www.kaggle.com/eswareanumula/titanic-ml-fromdisaster-using-sklearn About this Competition
+Overview The data has been split into two groups:
+training set (train.csv) test set (test.csv)
+The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.</description>
+    </item>
+    
+    <item>
+      <title>Titanic Data Analysis</title>
+      <link>https://eswareanumula.github.io/eswar/post/project-4/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://eswareanumula.github.io/eswar/post/project-4/</guid>
+      <description>MapReduce Use Case – Titanic Data Analysis
+DATASET DESCRIPTION Column 1 : PassengerId
+Column 2 : Survived (survived=0 &amp;amp; died=1)
+Column 3 : Pclass
+Column 4 : Name
+Column 5 : Sex
+Column 6 : Age
+Column 7 : SibSp
+Column 8 : Parch
+Column 9 : Ticket
+Column 10 : Fare
+Column 11 : Cabin
+Column 12 : Embarked
+Problem Statement 1:* In this problem statement, we will find the average age of males and females who died in the Titanic tragedy.</description>
+    </item>
+    
+    <item>
+      <title>Jane Street Market Predictions</title>
+      <link>https://eswareanumula.github.io/eswar/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://eswareanumula.github.io/eswar/post/project-1/</guid>
+      <description>jane-street-market-predictions Note 2021-10-08: the dataset for this competition is no longer available.
+This dataset contains an anonymized set of features, feature_{0&amp;hellip;129}, representing real stock market data. Each row in the dataset represents a trading opportunity, for which you will be predicting an action value: 1 to make the trade and 0 to pass on it. Each trade has an associated weight and resp, which together represents a return on the trade.</description>
+    </item>
+    
+    <item>
+      <title>Ball Image Classifier</title>
+      <link>https://eswareanumula.github.io/eswar/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://eswareanumula.github.io/eswar/post/project-2/</guid>
+      <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
+I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://eswareanumula.github.io/eswar/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eswareanumula.github.io/eswar/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     :&amp;mdash;: :&amp;mdash;:   Website: https://eswareanumula.github.io/eswar/   LinkedIn: https://www.linkedin.com/in/eswareanumula/   GitHub: https://github.com/EswarEanumula/    </description>
+    </item>
+    
+  </channel>
+</rss>
